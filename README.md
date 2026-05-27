@@ -1,7 +1,7 @@
 # Evolved Snake
 
 ## Vercel Link
-貼上你的 Vercel 連結
+https://evolved-snake-ev5q.vercel.app/
 
 ## Design Concept
 我的進化版 Snake 名稱是 Memory Fog Snake。這個版本改變了原版貪食蛇「玩家可以看見整張地圖」的玩法，加入迷霧視野限制。玩家只能看見蛇頭附近的一小塊範圍，距離太遠的食物、蛇身和牆壁都會被迷霧遮住。因此玩家不只要控制方向，還需要記住剛剛看過的位置，判斷下一步是否安全。
